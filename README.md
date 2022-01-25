@@ -1,5 +1,7 @@
 ## Your GitHub Learning Lab Repository for Managing Merge Conflicts
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/b19f9f5f-a115-40b0-b51e-1cdd06ef8236.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/merge-conflicts?orgId=650162616495)  
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
